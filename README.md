@@ -5,15 +5,13 @@
 * Date: 2018 Nov 11th
 
 ## Demo
-Luminous SPL Demo: TODO
+Luminous SPL Demo (Old one with an external SPL Meter, the new one is only using an USB microphone): https://www.youtube.com/watch?v=ojf781tA3Rg
 
-Original SPL Demo:
-[![demo](/images/demo.png)](https://youtu.be/jp1AkBDQ-8k)
 
 ## Requirements
 ### HW
-* Raspberry Pi(1 or 2)
-* Microphone (Webcam)
+* Raspberry Pi
+* Microphone 
 * Neopixel (WS2812) leds and 3.3 to TTL level shifter
 * ADS1115 ADC breakout board
 

@@ -2,7 +2,7 @@
 * Sound Pressure Level meter with RPI implemented with Python.
 * Author: Patrice GODARD, based on SPL Meter implementation by Seyoung Park
 * E-mail: patrice.godard@laposte.net, seyoung.arts.park@protonmail.com
-* Date: 2019 Nov 11th
+* Date: 2018 Nov 11th
 
 ## Demo
 Luminous SPL Demo: TODO
